@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.gradio/
+.env
+*.key
+*.pem
+outputs/
+dist/
+build/
+*.egg-info/
+
